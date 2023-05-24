@@ -11,7 +11,7 @@
 <section id="content">
 	<h3>Spring 기반의 MVC2 패턴을 활용한 Web Application 입니다.</h3>
 	홈2 만듬
-
+	ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄻㄴㅇㄴ옳ㅈㄱ셔쇼ㅜㄴㄱㅇㄷㅅㄱㄷ
 	<h3>회원가입</h3>
 	<!-- REST API 키 =  client_id -->
 	<a href="https://kauth.kakao.com/oauth/authorize?response_type=code&client_id=de8b947c7781a8c06597b232983a087b&redirect_uri=http://localhost/mvc/member/enroll/kakao">
