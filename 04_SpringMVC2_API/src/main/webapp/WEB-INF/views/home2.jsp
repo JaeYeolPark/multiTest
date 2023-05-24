@@ -11,6 +11,7 @@
 <section id="content">
 	<h3>Spring 기반의 MVC2 패턴을 활용한 Web Application 입니다.</h3>
 	홈2 만듬
+	git1이 home2 수정함
 	
 	<h3>회원가입</h3>
 	<!-- REST API 키 =  client_id -->
